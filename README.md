@@ -13,6 +13,16 @@ I am a Game Develper, Game Programmer, Senior Certified Unty3d Developer, Techni
 - Game Play and Development 👀
 - Billiard 🎱
 
+## Current Project
+- Apex Racing - A very stylish AR Racing Game
+
+## Next Project's
+- HumanA survival - A simple game about a great story
+- HumanA comics - The base of an original science fiction
+- HumanA shorts - Still classified
+- Razia tabletop - Still classified
+- Razia Mobile game - Still classified
+
 [![Thunderbird's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhthunderbird)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 Game Develper, Game Programmer, Senior Certified Unty3d Developer, Technical Artist, Game vs Human Phsychology enthusiast student.
