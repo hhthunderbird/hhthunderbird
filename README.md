@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am a Game Develper, Game Programmer, Senior Certified Unty3d Developer, Technical Artist and Game vs Human Phsychology enthusiast student and speaker.
 
-[#Education] 📚
+#Education 📚
 - Bachelor's in Information Systems 💻
 
 [#My main interests are] ❤️
