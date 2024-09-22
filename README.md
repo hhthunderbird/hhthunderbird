@@ -1,17 +1,17 @@
 ## Hi there 👋
 I am a Game Develper, Game Programmer, Senior Certified Unty3d Developer, Technical Artist and Game vs Human Phsychology enthusiast student and speaker.
 
-#[Education 📚]
-Bachelor's in Information Systems 💻
+[#Education] 📚
+- Bachelor's in Information Systems 💻
 
-#[My main interests are ❤️]
-Game Development 🕹️
-Shader Development 🎨
-Phsychology 🧠
+[#My main interests are] ❤️
+- Game Development 🕹️
+- Shader Development 🎨
+- Phsychology 🧠
 
-#[Hobbies]
-Game Play and Development 👀
-Billiard 🎱
+[#Hobbies]
+- Game Play and Development 👀
+- Billiard 🎱
 
 [![Thunderbird's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhthunderbird)](https://github.com/anuraghazra/github-readme-stats)
 <!--
