@@ -13,6 +13,24 @@ I am a Game Develper, Game Programmer, Senior Certified Unty3d Developer, Techni
 - Game Play and Development 👀
 - Billiard 🎱
 
+## Past Projects
+- as aventuras de sônia.....................Platformer 2D
+- bike......................................Racing 3D
+- bike......................................Racing 3D VR
+- Datum Terranova	Experimental..............3D WebGL/Android
+- fisiologia humana e alimentacao saudavel..Narrativo 2D/WebGL/Android
+- HumanA....................................Adventure 3D/PC
+- jogo 2 investimento	Experimental..........2D/WebGL
+- space lander..............................Simulator 2D
+- survival shooter..........................Survival 3D AR
+- survival shooter mp.......................Survival 3D AR MP
+- swarm	Spaceship...........................3D AR
+- swarm fx..................................Spaceship 3D AR
+- swarm vr..................................Spaceship 3D VR
+- Joey's Lovework...........................Adult 2D/Android/iOS
+- Waldo.....................................Spaceship 2D
+- match3....................................Puzzle 2D
+
 ## Current Project
 - Apex Racing - A very stylish AR Racing Game
 ![Screenshot 2024-08-09 163514](https://github.com/user-attachments/assets/9b13c272-65e8-42fe-85ef-153237bf3670)
