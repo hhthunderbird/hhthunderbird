@@ -35,7 +35,7 @@ I am a Game Develper, Game Programmer, Senior Certified Unty3d Developer, Techni
 - Apex Racing - A very stylish AR Racing Game
 ![Screenshot 2024-08-09 163514](https://github.com/user-attachments/assets/9b13c272-65e8-42fe-85ef-153237bf3670)
 
-## Next Project's
+## Next Projects
 - HumanA survival - A simple game about a great story
 - HumanA comics - The base of an original science fiction
 - HumanA shorts - Still classified
