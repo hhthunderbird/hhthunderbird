@@ -14,7 +14,10 @@ I am a Game Develper, Game Programmer, Senior Certified Unty3d Developer, Techni
 - Billiard 🎱
 
 ## Past Projects
+- Waldo.....................................Spaceship 2D
+https://gamejolt.com/games/waldo/564567
 - as aventuras de sônia.....................Platformer 2D
+https://gamejolt.com/games/adventuresofsonia/286587
 - bike......................................Racing 3D
 - bike......................................Racing 3D VR
 - Datum Terranova	Experimental..............3D WebGL/Android
@@ -24,11 +27,11 @@ I am a Game Develper, Game Programmer, Senior Certified Unty3d Developer, Techni
 - space lander..............................Simulator 2D
 - survival shooter..........................Survival 3D AR
 - survival shooter mp.......................Survival 3D AR MP
-- swarm	Spaceship...........................3D AR
+- swarm	....................................Spaceship 3D AR
 - swarm fx..................................Spaceship 3D AR
 - swarm vr..................................Spaceship 3D VR
 - Joey's Lovework...........................Adult 2D/Android/iOS
-- Waldo.....................................Spaceship 2D
+
 - match3....................................Puzzle 2D
 
 ## Current Project
