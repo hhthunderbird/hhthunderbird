@@ -14,8 +14,10 @@ I am a Game Develper, Game Programmer, Senior Certified Unty3d Developer, Techni
 - Billiard 🎱
 
 ## Past Projects
+- Sword Legacy Omen (PC/XBOX/PS4/PS5)
 - Waldo (Spaceship 2D) https://gamejolt.com/games/waldo/564567
 - As aventuras de sônia (Platformer 2D) https://gamejolt.com/games/adventuresofsonia/286587
+- Geometa (children)........................AR
 - bike......................................Racing 3D
 - bike......................................Racing 3D VR
 - Datum Terranova	Experimental..............3D WebGL/Android
@@ -29,20 +31,14 @@ I am a Game Develper, Game Programmer, Senior Certified Unty3d Developer, Techni
 - swarm fx..................................Spaceship 3D AR
 - swarm vr..................................Spaceship 3D VR
 - Joey's Lovework...........................Adult 2D/Android/iOS
-
 - match3....................................Puzzle 2D
 
-## Current Project
-- Apex Racing - A very stylish AR Racing Game ( early stages of production )
+## Current Projects
+- Apex Racing - A very stylish AR Racing Game ( Prototype stage )
 ![Screenshot 2024-08-09 163514](https://github.com/user-attachments/assets/9b13c272-65e8-42fe-85ef-153237bf3670)
 
-## Next Projects
-- HumanA survival - A simple game about a great story
-- HumanA comics - The base of an original science fiction
-- HumanA shorts - Still classified
-- Razia tabletop - Still classified
-- Razia Mobile game - Still classified
-
+- Puzzle 2 Gather - A multiplayer social jigsaw puzzle game ( Prototype stage )
+- 
 [![Thunderbird's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhthunderbird)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 Game Develper, Game Programmer, Senior Certified Unty3d Developer, Technical Artist, Game vs Human Phsychology enthusiast student.
