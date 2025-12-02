@@ -15,8 +15,10 @@ I am a Game Develper, Game Programmer, Senior Certified Unty3d Developer, Techni
 
 ## Past Projects
 - Sword Legacy Omen (PC/XBOX/PS4/PS5)
-- Waldo (Spaceship 2D) https://gamejolt.com/games/waldo/564567
+- Waldo o feioso (Spaceship 2D) https://gamejolt.com/games/waldo/564567
+  <img width="1920" height="1080" alt="print0" src="https://github.com/user-attachments/assets/85895b1e-3698-433c-9c8a-f6e05e6783e0" />
 - As aventuras de sônia (Platformer 2D) https://gamejolt.com/games/adventuresofsonia/286587
+  ![286587-crop0_120_1920_831-3jwjw3ut-v4](https://github.com/user-attachments/assets/ba24f683-621c-4b94-8963-b57ae7734785)
 - Geometa (children)........................AR
 - bike......................................Racing 3D
 - bike......................................Racing 3D VR
