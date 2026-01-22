@@ -14,6 +14,9 @@ I am a Game Develper, Game Programmer, Senior Certified Unty3d Developer, Techni
 - Billiard 🎱
 
 ## Past Projects
+- Samsung Galaxy XR
+![xr](https://github.com/user-attachments/assets/9da31a8f-eee7-43bb-958e-7a286c483bf4)
+
 - Sword Legacy Omen (PC/XBOX/PS4/PS5)
   
   <img width="611" height="346" alt="image" src="https://github.com/user-attachments/assets/677be692-36a6-4302-bce6-d747b5087dc1" />
