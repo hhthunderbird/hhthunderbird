@@ -1,108 +1,87 @@
-## Yo! 👋
-I am a Game Develper, Game Programmer, Senior Certified Unty3d Developer, Technical Artist and Game vs Human Psychology enthusiast student and speaker.
+import os
 
-## Education 📚
-- Bachelor's in Information Systems 💻
+# Conteúdo do ficheiro Markdown para o portfólio do Raul
+portfolio_md = """# Portfólio Profissional | Raul Batista do Nascimento
+## Desenvolvedor de Jogos Sénior | Especialista em XR & Artista Técnico
 
-## My main interests are ❤️
-- Game Development 🕹️
-- Shader Development 🎨
-- Psychology 🧠
+Sou um desenvolvedor de jogos e especialista em Realidade Estendida (XR) com mais de 13 anos de experiência na criação de ecossistemas digitais imersivos. A minha trajetória une o rigor técnico da Ciência da Computação (Bacharel em Sistemas de Informação) à pesquisa em Psicologia Aplicada, focando em como interfaces lúdicas e tecnologias emergentes podem transformar a educação e a convivência social.
 
-## Hobbies
-- Game Play and Development 👀
-- Billiard 🎱
+---
 
-## Past Projects
-- Samsung Galaxy XR
-![xr](https://github.com/user-attachments/assets/9da31a8f-eee7-43bb-958e-7a286c483bf4)
+### 🚀 Destaques e Produção Recente (2024 – 2026)
 
-- Sword Legacy Omen (PC/XBOX/PS4/PS5)
-  
-  <img width="611" height="346" alt="image" src="https://github.com/user-attachments/assets/677be692-36a6-4302-bce6-d747b5087dc1" />
-- Waldo o feioso (Spaceship 2D) https://gamejolt.com/games/waldo/564567
-  
-  <img width="1920" height="1080" alt="print0" src="https://github.com/user-attachments/assets/85895b1e-3698-433c-9c8a-f6e05e6783e0" />
-- As aventuras de sônia (Platformer 2D) https://gamejolt.com/games/adventuresofsonia/286587
-  ![286587-crop0_120_1920_831-3jwjw3ut-v4](https://github.com/user-attachments/assets/ba24f683-621c-4b94-8963-b57ae7734785)
-- Geometa (children)........................AR
-  
-  <img width="638" height="292" alt="image" src="https://github.com/user-attachments/assets/8b5fac6d-0de8-4194-900f-ef031bd96f66" />
-- Jigsaw Clash .............................Puzzle
-  <img width="1460" height="825" alt="image" src="https://github.com/user-attachments/assets/c87f023f-fdb7-4794-86b5-7299fd2a08ed" />
-- bike......................................Racing 3D
-- bike......................................Racing 3D VR
-- Datum Terranova	Experimental..............3D WebGL/Android
-- fisiologia humana e alimentacao saudavel..Narrativo 2D/WebGL/Android
-- HumanA....................................Adventure 3D/PC
-- jogo 2 investimento	Experimental..........2D/WebGL
-- space lander..............................Simulator 2D
-- survival shooter..........................Survival 3D AR
-- survival shooter mp.......................Survival 3D AR MP
-- swarm	....................................Spaceship 3D AR
-- swarm fx..................................Spaceship 3D AR
-- swarm vr..................................Spaceship 3D VR
-- Joey's Lovework...........................Adult 2D/Android/iOS
-- match3....................................Puzzle 2D
+Esta secção detalha a minha produção atual, focada em arquiteturas de alta performance, inovação em interação comunitária e tecnologias móveis de ponta.
 
-- Mangueira Desejo
-  https://ecoarte.info/mangueira-desejo-val-sampaio/
-  
-## Current Projects
-- Apex Racing - A very stylish AR Racing Game ( Prototype stage )
-![Screenshot 2024-08-09 163514](https://github.com/user-attachments/assets/9b13c272-65e8-42fe-85ef-153237bf3670)
+#### **Mira Pará (2026)**
+* **Conceito**: Ecossistema multiplayer social e cooperativo focado na integração comunitária e na valorização da iconografia regional.
+* **Contexto**: O projeto é a evolução técnica do título **Puzzle2Gather**, disponível no meu [Itch.io](https://hhthunderbird.itch.io/).
+* **Destaque Técnico**: Utiliza sistemas de autoridade distribuída e uma arquitetura híbrida para garantir uma experiência colaborativa fluida em larga escala.
 
-- Puzzle 2 Gather - A multiplayer social jigsaw puzzle game ( Prototype stage )
-- 
-[![Thunderbird's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhthunderbird)](https://github.com/anuraghazra/github-readme-stats)
+#### **Geometa (2025 – 2026)**
+* **Tecnologia**: Realidade Aumentada (AR) para dispositivos móveis.
+* **Escopo**: Plataforma que converte desenhos físicos coloridos em modelos 3D interativos em tempo real, utilizando a biblioteca ARColorMapping para promover o letramento digital infantil.
 
-## Shader studies
-- Rainbow
-  <img width="396" height="408" alt="Screenshot 2025-11-15 125817" src="https://github.com/user-attachments/assets/92302e88-0c7f-4312-93f3-a1def98a5b1f" />
+<img width="638" height="292" alt="Geometa AR" src="https://github.com/user-attachments/assets/8b5fac6d-0de8-4194-900f-ef031bd96f66" />
 
-- Animated grass
-  <img width="396" height="408" alt="image" src="https://github.com/user-attachments/assets/4f209cce-e8a0-4a59-b08c-b9558ac6e2d2" />
+#### **Apex Racing (2025)**
+* **Plataforma**: Mobile AR.
+* **Descrição**: Simulador de corrida em Realidade Aumentada com estética visual *low-poly* estilizada, focado em alta fidelidade e performance para hardware móvel.
 
-- Checkboard
-  <img width="396" height="408" alt="image" src="https://github.com/user-attachments/assets/1908b3fa-fa14-4f5d-a146-4b2dbd5b4123" />
+![Apex Racing](https://github.com/user-attachments/assets/9b13c272-65e8-42fe-85ef-153237bf3670)
 
-- Rim Light
-  <img width="396" height="408" alt="image" src="https://github.com/user-attachments/assets/e4ebfe58-fd6a-4703-9ad5-e5b63e443c97" />
+#### **Liderança em Inovação XR (Até 2024)**
+* **Atuação**: Líder de desenvolvimento no **Instituto SIDIA (Samsung P&D)**.
+* **Escopo**: Gestão de equipas multidisciplinares na criação de soluções para o ecossistema Android XR e dispositivos imersivos globais.
 
-- Dissolve
-  <img width="396" height="408" alt="image" src="https://github.com/user-attachments/assets/4db5f881-9cc7-49f8-8a7e-e84e337c7b60" />
+![Samsung Galaxy XR](https://github.com/user-attachments/assets/9da31a8f-eee7-43bb-958e-7a286c483bf4)
 
-- Dissolve Mask
-  <img width="396" height="408" alt="image" src="https://github.com/user-attachments/assets/77a04253-656d-4c2c-a095-16fc7a9cb5b1" />
+---
 
-- Gradient
-  <img width="396" height="408" alt="image" src="https://github.com/user-attachments/assets/c0f85334-0d40-4671-a633-34c7eb15623c" />
+### 🛠️ Especialidades Técnicas
 
-- Gradient Posterized
-  <img width="396" height="408" alt="image" src="https://github.com/user-attachments/assets/30538189-8c62-4fa6-8fd9-3854580edae1" />
+* **Engine & Code**: Especialista em Unity3D (Senior Certified) e C#.
+* **Arquitetura Avançada**: Domínio de Unity DOTS, ECS (Entity Component System) e Burst Compiler para otimização extrema.
+* **Technical Art**: Desenvolvimento de Shaders customizados (HLSL) e otimização de renderização para múltiplas plataformas.
+* **Multiplayer & Networking**: Implementação de sistemas via Photon, Netcode e comunicação por áudio em tempo real.
 
-- Vertex Displacement
-  <img width="396" height="408" alt="image" src="https://github.com/user-attachments/assets/a6b3c93b-1fd1-4243-862f-05d6d860c941" />
+---
 
-- Cell Shading Specular
-  <img width="396" height="408" alt="image" src="https://github.com/user-attachments/assets/54373922-d50f-47f4-9793-e70d5282c4fb" />
+### 📚 Experiência Consolidada e Projetos Históricos
 
-- Specular
-  <img width="396" height="408" alt="image" src="https://github.com/user-attachments/assets/a052e570-798c-44c5-9d40-c3860908ad81" />
+#### **Sword Legacy Omen**
+Participação técnica em título de escala internacional publicado para múltiplas plataformas, incluindo PC e consolas (XBOX/PS4/PS5).
 
-- Transparency
-  <img width="396" height="408" alt="image" src="https://github.com/user-attachments/assets/7d4f83ac-32a5-46b6-a3f4-6a91b6e96b9d" />
+<img width="611" height="346" alt="Sword Legacy Omen" src="https://github.com/user-attachments/assets/677be692-36a6-4302-bce6-d747b5087dc1" />
 
-<!--
-Game Develper, Game Programmer, Senior Certified Unty3d Developer, Technical Artist, Game vs Human Phsychology enthusiast student.
-Here are some ideas to get you started:
+#### **Mangueira Desejo (2021)**
+Instalação artística internacional em Realidade Aumentada que uniu arte contemporânea e intervenção urbana, com circulação por Brasil, Espanha e Portugal.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### **Títulos Independentes e Educativos**
+* **Jigsaw Clash**: Base de estudo para mecânicas sociais e cooperativas.
+* **As Aventuras de Sónia**: Platformer 2D com foco em narrativa infantil.
+* **Waldo, o Feioso**: Jogo de naves com temática e arte autorais.
+
+---
+
+### 🎓 Formação e Reconhecimento
+
+* **Graduação**: Bacharel em Sistemas de Informação - IESAM (PA).
+* **Comunidade**: Palestrante ativo em fóruns técnicos como **Unama Jogos**, **E.D.G.** e **Encontro LudLab**, discutindo arquitetura de software e o impacto do desenvolvimento de jogos na região Norte.
+
+---
+
+### 📬 Contacto e Portfólios Online
+
+* **GitHub**: [github.com/hhthunderbird](https://github.com/hhthunderbird)
+* **Itch.io**: [hhthunderbird.itch.io](https://hhthunderbird.itch.io/)
+* **Localização**: Ananindeua, Pará
+* **E-mail**: raul.nascimento.dev@gmail.com
+
+---
+"""
+
+# Guardar o ficheiro
+with open("portfolio_raul_nascimento.md", "w", encoding="utf-8") as f:
+    f.write(portfolio_md)
+
+print("Ficheiro .md gerado com sucesso.")
