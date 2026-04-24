@@ -7,7 +7,7 @@ I am a Game Develper, Game Programmer, Senior Certified Unty3d Developer, Techni
 ## My main interests are ❤️
 - Game Development 🕹️
 - Shader Development 🎨
-- Phsychology 🧠
+- Psychology 🧠
 
 ## Hobbies
 - Game Play and Development 👀
