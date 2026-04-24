@@ -1,5 +1,5 @@
 ## Yo! 👋
-I am a Game Develper, Game Programmer, Senior Certified Unty3d Developer, Technical Artist and Game vs Human Phsychology enthusiast student and speaker.
+I am a Game Develper, Game Programmer, Senior Certified Unty3d Developer, Technical Artist and Game vs Human Psychology enthusiast student and speaker.
 
 ## Education 📚
 - Bachelor's in Information Systems 💻
