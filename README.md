@@ -1,7 +1,3 @@
-import os
-
-# Conteúdo do ficheiro Markdown para o portfólio do Raul
-portfolio_md = """# Portfólio Profissional | Raul Batista do Nascimento
 ## Desenvolvedor de Jogos Sénior | Especialista em XR & Artista Técnico
 
 Sou um desenvolvedor de jogos e especialista em Realidade Estendida (XR) com mais de 13 anos de experiência na criação de ecossistemas digitais imersivos. A minha trajetória une o rigor técnico da Ciência da Computação (Bacharel em Sistemas de Informação) à pesquisa em Psicologia Aplicada, focando em como interfaces lúdicas e tecnologias emergentes podem transformar a educação e a convivência social.
