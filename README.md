@@ -8,10 +8,9 @@ Sou um desenvolvedor de jogos e especialista em Realidade Estendida (XR) com mai
 
 Esta secção detalha a minha produção atual, focada em arquiteturas de alta performance, inovação em interação comunitária e tecnologias móveis de ponta.
 
-#### **Mira Pará (2026)**
-* **Conceito**: Ecossistema multiplayer social e cooperativo focado na integração comunitária e na valorização da iconografia regional.
-* **Contexto**: O projeto é a evolução técnica do título **Puzzle2Gather**, disponível no meu [Itch.io](https://hhthunderbird.itch.io/).
-* **Destaque Técnico**: Utiliza sistemas de autoridade distribuída e uma arquitetura híbrida para garantir uma experiência colaborativa fluida em larga escala.
+#### **Togather (2026)**
+* **Conceito**: puzzle online multiplayer.
+disponível no meu [Itch.io](https://hhthunderbird.itch.io/).
 
 #### **Geometa (2025 – 2026)**
 * **Tecnologia**: Realidade Aumentada (AR) para dispositivos móveis.
